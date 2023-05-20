@@ -1,0 +1,23 @@
+.tasks .task{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 10px 0px;
+}
+.task input{
+    border: 0px solid black;
+    background-color: transparent;
+}
+.task button{
+    background-color: transparent;
+    border: 0px solid black;
+}
+.task img{
+    width: 20px;
+}
+.task .task_actions{
+    display: flex;
+    align-content: center;
+}

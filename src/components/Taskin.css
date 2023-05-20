@@ -1,0 +1,24 @@
+.taskin{
+    margin: 8px 0px;
+}
+.taskin input{
+    height: 30px;
+    width: 70%;
+    margin-right: 0.5rem;
+    padding-left:8px ;
+    border: 0px solid black;
+    border-radius: 12px;
+}
+.taskin button{
+    width: 20%;
+    height: 30px;
+    border: 0px solid black;
+    background-color: white;
+    border-radius: 5px;
+}
+.taskin #verifybtn{
+    display:none;
+}
+.taskin #addbtn{
+    display: inline-block;
+}

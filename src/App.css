@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite
+}
+.main_section{
+    display: flex;
+    justify-content: center;
+}
+.task_section{
+    min-width: 262.4px;
+}
+.task_section .filter_tasks select{
+    background-color: white;
+    border: 0px solid black;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+
